@@ -126,7 +126,7 @@ knightfight/
 
 ## 🖼️ Preview
 
-Here are some preview screenshots of **KnightFight**:
+Here are some preview screenshots of **ChessCrime**:
 
 <p align="center">
   <img src="./picscreshorts/preview1.png" width="400" alt="Preview 1"/>
@@ -145,7 +145,6 @@ Contributions are welcome! Open an issue or create a pull request. Let's build a
 
 ## 👤 Author
 
-**Pratham Upadhyay**
+**Vishal Mishra**
 
-- 🌐 [Portfolio](https://iampratham.vercel.app)
-- 🐙 [GitHub](https://github.com/prathamu200)
+- 🐙 [GitHub](https://github.com/beyondinfinity9988)
