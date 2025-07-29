@@ -129,12 +129,12 @@ knightfight/
 Here are some preview screenshots of **KnightFight**:
 
 <p align="center">
-  <img src="./assets/preview1.png" width="400" alt="Preview 1"/>
-  <img src="./assets/preview2.png" width="400" alt="Preview 2"/>
+  <img src="./picscreshorts/preview1.png" width="400" alt="Preview 1"/>
+  <img src="./picscreshorts/preview2.png" width="400" alt="Preview 2"/>
 </p>
 <p align="center">
-  <img src="./assets/preview3.png" width="400" alt="Preview 3"/>
-  <img src="./assets/preview4.png" width="400" alt="Preview 4"/>
+  <img src="./picscreshorts/preview3.png" width="400" alt="Preview 3"/>
+  <img src="./picscreshorts/preview4.png" width="400" alt="Preview 4"/>
 </p>
 ---
 ## 🤝 Contributing
